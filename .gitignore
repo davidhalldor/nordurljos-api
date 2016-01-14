@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# idea settings
+.idea/.name
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/nordurljos-api.iml
+.idea/vcs.xml
+.idea/workspace.xml
